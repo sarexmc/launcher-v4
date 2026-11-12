@@ -1,0 +1,22 @@
+{
+  "name": "Sarex Studio Launcher",
+  "minecraft": "1.21.1",
+  "manifestUrl": "https://raw.githubusercontent.com/TU_USUARIO/sarex-pack/main/manifest.json",
+  "publicKey": "",
+  "allowedHosts": [
+    "github.com",
+    "raw.githubusercontent.com",
+    "objects.githubusercontent.com",
+    "release-assets.githubusercontent.com",
+    "cdn.modrinth.com"
+  ],
+  "server": {
+    "name": "",
+    "host": "",
+    "port": 25565
+  },
+  "discord": {
+    "clientId": "",
+    "invite": ""
+  }
+}
